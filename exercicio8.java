@@ -9,10 +9,8 @@ Componentes:
 25164713-2 - Luan Enrico Santana Peça
 25182011-2 - Miguel Felipe Gazola
 Data: 18 de Março de 2026
-Descritivo: Escreva um programa que defina uma classe Pessoa com atributos nome e idade, e métodos para exibir
-esses atributos.
+Descritivo: Escreva um programa que conte o número de vogais em uma string fornecida pelo usuário.
 ***************************/
-
 // Importa a classe Scanner para ler dados digitados pelo usuário
 import java.util.Scanner;
 
