@@ -1,4 +1,4 @@
-package exercico16;
+package exercicio16;
 
 public class Verif_senha {
 
