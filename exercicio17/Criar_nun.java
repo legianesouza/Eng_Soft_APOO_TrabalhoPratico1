@@ -1,4 +1,4 @@
-package exercico17;
+package exercicio17;
 
 // Importa a classe Random, usada para gerar números aleatórios
 import java.util.Random;
