@@ -1,4 +1,4 @@
-package exercico17;
+package exercicio17;
 
 
 public class Main {
