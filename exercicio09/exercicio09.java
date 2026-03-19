@@ -4,11 +4,10 @@ Disciplina: Análise e Projeto Orienta a Objetos
 Professor: José Carlos Flores
 Turma: ESOFT3A
 Componentes:
-2500
-1459-2 - Eduardo Gritten dos Santos Spohr
+25001459-2 - Eduardo Gritten dos Santos Spohr
 25044068-2 - Legiane Cristina de Souza Oliveira Chagas
 25164713-2 - Miguel Felipe Gazola
-25182011-2 - Lauana Prado de Andrade
+25164713-2 - Luan Enrico Santana Peça
 Data: 05 de Março de 2026
 Descritivo: Criar uma calculadora simples de quatro operações (+ - * /).
 *******************************************************************************/
