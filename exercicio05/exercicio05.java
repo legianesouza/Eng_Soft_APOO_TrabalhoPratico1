@@ -8,7 +8,7 @@ Componentes:
 1459-2 - Eduardo Gritten dos Santos Spohr
 25044068-2 - Legiane Cristina de Souza Oliveira Chagas
 25164713-2 - Miguel Felipe Gazola
-25182011-2 - Lauana Prado de Andrade
+25164713-2 - Luan Enrico Santana Peça
 Data: 05 de Março de 2026
 Descritivo: Escreva um programa que exiba apenas os números pares de 1 a 20.
 *******************************************************************************/
